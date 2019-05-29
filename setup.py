@@ -26,7 +26,7 @@ setup(
 
           'pandas',
 
-          'numpy','glob'
+          'numpy','glob2'
 
       ],
 
